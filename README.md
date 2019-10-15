@@ -1,7 +1,7 @@
 # 1015_Mini_jeu_POO
 New project in ruby
 
-Fight for Life est un jeu de combat qui matériale un utilisateur dans sa lutte contre 2 robots. Vivre ou mourrir il faut choisir.
+Fight for Life est un jeu de combat qui matérialise un utilisateur dans sa lutte contre 2 robots. Vivre ou mourrir il faut choisir.
 Le programme permet de simuler à chaque tour, après un choix de l'utilisateur : 
 - la recherche d'une arme de meilleure qualité 
 - la recherche d'une trousse de secours pour restaurer des points de vie 
